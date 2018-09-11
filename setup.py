@@ -6,6 +6,7 @@ from setuptools import setup, find_packages, Command
 here = path.abspath(path.dirname(__file__))
 remove_dir = ['build', 'dist']
 
+
 def rmdir():
     for directory in os.listdir(here):
         if directory in remove_dir or directory.endswith('egg-info'):
