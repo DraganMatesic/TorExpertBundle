@@ -1,4 +1,4 @@
-# Tor expert bundle2
+# Tor expert bundle
 
 This project is focused on Tor gateway...
 
