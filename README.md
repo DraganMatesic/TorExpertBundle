@@ -1,4 +1,4 @@
-# Blank project setup
+# Tor expert bundle
 
 This project is focused on Tor gateway...
 
